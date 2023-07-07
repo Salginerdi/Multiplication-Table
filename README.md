@@ -1,2 +1,2 @@
-# JS-For-Dongusuyle-Carpim-Tablosu
-JavaScript for döngüsü kullanarak çarpım tablosu oluşturma.
+# Multiplication Table with JavaScript
+I created a multiplication table using only JavaScript for loops.
